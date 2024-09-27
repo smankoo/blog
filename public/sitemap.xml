@@ -3,29 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-26T19:06:23-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-fourth-post/</loc>
-    <lastmod>2024-09-26T19:06:23-07:00</lastmod>
+    <lastmod>2024-09-27T08:19:14-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-26T19:06:23-07:00</lastmod>
+    <lastmod>2024-09-27T08:19:14-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-third-post/</loc>
-    <lastmod>2024-09-26T18:59:34-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/proverb/</loc>
-    <lastmod>2024-09-26T18:59:34-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-26T18:59:34-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-second-post/</loc>
-    <lastmod>2024-09-26T15:59:31-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-first-post/</loc>
-    <lastmod>2024-09-25T23:36:59-04:00</lastmod>
+    <loc>http://localhost:1313/what-is-this/</loc>
+    <lastmod>2024-09-27T08:19:14-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

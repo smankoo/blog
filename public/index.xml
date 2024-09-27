@@ -6,40 +6,19 @@
     <description>Recent content on My Blog</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2024 19:06:23 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 08:19:14 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Fourth Post</title>
-      <link>http://localhost:1313/my-fourth-post/</link>
-      <pubDate>Thu, 26 Sep 2024 19:06:23 -0700</pubDate>
-      <guid>http://localhost:1313/my-fourth-post/</guid>
-      <description>&lt;h2 id=&#34;testing-test-test&#34;&gt;Testing test test&lt;/h2&gt;
-&lt;p&gt;bzz bzz bzzzz
-bzz&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Third Post</title>
-      <link>http://localhost:1313/my-third-post/</link>
-      <pubDate>Thu, 26 Sep 2024 18:59:34 -0700</pubDate>
-      <guid>http://localhost:1313/my-third-post/</guid>
-      <description>&lt;h2 id=&#34;trying-out-tags&#34;&gt;Trying out tags&lt;/h2&gt;
-&lt;p&gt;A quick brown fox jumped over the lazy dog.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/my-second-post/</link>
-      <pubDate>Thu, 26 Sep 2024 15:59:31 -0700</pubDate>
-      <guid>http://localhost:1313/my-second-post/</guid>
-      <description>&lt;h1 id=&#34;this-is-my-second-post&#34;&gt;This is my second post&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/my-first-post/</link>
-      <pubDate>Wed, 25 Sep 2024 23:36:59 -0400</pubDate>
-      <guid>http://localhost:1313/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>What is this?</title>
+      <link>http://localhost:1313/what-is-this/</link>
+      <pubDate>Fri, 27 Sep 2024 08:19:14 -0700</pubDate>
+      <guid>http://localhost:1313/what-is-this/</guid>
+      <description>&lt;p&gt;This is a space for me to write.
+A web log. A Blog in the original sense.
+This is not meant for self-promotion, or to grab attention in any way.&lt;/p&gt;
+&lt;p&gt;In fact, there is an excellent chance that this text has an audience of one, me.&lt;/p&gt;
+&lt;p&gt;Often I read or experience things - articles, books, movies, an interaction, a class - that evoke further thoughts or concepts in me.
+This is a place to write those down. Mainly to get them out of my head, and possibly for the use of future-me. Writing them down also makes me try to structure them and really think through them. Without this process, I am truly convinced of my own beliefs, even if I can&amp;rsquo;t pin point exactly what they are.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
