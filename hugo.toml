@@ -15,7 +15,7 @@ canonifyURLs = true
     email = "sumeet@mankoo.ca"
     opengraph = true
     shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
+    dateFormat = "Mon Jan 2, 2006"
 
 [Permalinks]
     posts = "/:filename/"

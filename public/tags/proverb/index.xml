@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Proverb on My Blog</title>
+    <link>http://localhost:1313/tags/proverb/</link>
+    <description>Recent content in Proverb on My Blog</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Sep 2024 18:59:34 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/proverb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>http://localhost:1313/my-third-post/</link>
+      <pubDate>Thu, 26 Sep 2024 18:59:34 -0700</pubDate>
+      <guid>http://localhost:1313/my-third-post/</guid>
+      <description>&lt;h2 id=&#34;trying-out-tags&#34;&gt;Trying out tags&lt;/h2&gt;
+&lt;p&gt;A quick brown fox jumped over the lazy dog.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
