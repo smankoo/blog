@@ -1,0 +1,25 @@
+# Hugo directories and files to ignore
+public/
+resources/
+hugo_stats.json
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
