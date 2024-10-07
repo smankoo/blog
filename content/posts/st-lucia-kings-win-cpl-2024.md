@@ -2,7 +2,11 @@
 title: St. Lucia Kings win CPL 2024
 date: 2024-10-06T23:08:19-04:00
 draft: false
+tags:
+  - cricket
+  - cpl
 ---
+
 ![Aaron Jones Celebrates](https://i.imgur.com/JP5WV2d.png)
 
 CPL 2024 final just wrapped up, with the final between Guyana Amazon Warriors (GAW) and St. Lucia Kings (SLK). Batting first, GAW scored 138 courtesy some late hitting by Romario Shepherd and Dwayne Pretorius. It first looked like not a lot. However, St. Lucia just didn't seem to be able to get bat on ball, and made the total look extremely challenging.
@@ -23,24 +27,18 @@ Watching Caribbean Premier League was more enjoyable than watching Indian Premie
 
 First, the matches were in my timezone, so I could watch them over dinner and onwards, instead of having to check the scores and watching little bits during work hours.
 
-Second, the league seemed quite competitive. In IPL, there are strong teams (CSK, MI, and KKR - depending on their mood), and there are weak teams (I'm looking at you, Punjab and Delhi), and the rest are in between. Meanwhile, in CPL, most teams felt evenly matched. Also, CPL teams felt less reliant on a few key individuals to perform. Instead, it felt like a real team sport, where if one person failed, somebody else excelled. 
+Second, the league seemed quite competitive. In IPL, there are strong teams (CSK, MI, and KKR - depending on their mood), and there are weak teams (I'm looking at you, Punjab and Delhi), and the rest are in between. Meanwhile, in CPL, most teams felt evenly matched. Also, CPL teams felt less reliant on a few key individuals to perform. Instead, it felt like a real team sport, where if one person failed, somebody else excelled.
 
 Sidenote: I'm not a huge fan of the ambience in Antigua (I think that was it, I may be wrong though). One, I don't love the sound of the steel drums playing continuously during the match, and more importantly, people seem to continue playing them (and dancing) regardless of what's going on in the game. Maybe it's the purist in me with the deep deep love of Cricket, but if you're at a game, care about the game? The ambience in Guyana, on the other hand, seemed fantastic! I may visit Guyana just for that.
 
 ## Final Thoughts
 
-With the exquisite talent on show, the great crowds, and the excellent fit with my timezone, I will certainly be watching CPL next year. 
+With the exquisite talent on show, the great crowds, and the excellent fit with my timezone, I will certainly be watching CPL next year.
 
 Some of my favorite players from this season were Rahmanulla Gurbaz, Romario Shepherd, Moeen Ali, Nicholas Pooran (I think he's the best T20 batsman in the world right now), and Maheesh Theekshana.
 
 ## References:
+
 https://www.espncricinfo.com/series/caribbean-premier-league-2024-1428674/guyana-amazon-warriors-vs-st-lucia-kings-final-1428711/live-cricket-score
 
-
 ![Win Predictor](https://i.imgur.com/oHXijp0.png)
-
-
-
-
-
-
