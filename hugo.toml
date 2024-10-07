@@ -1,6 +1,6 @@
 baseURL = 'https://mankoo.ca'
 languageCode = 'en-us'
-title = 'My Blog'
+title = "Sumeet's Blog"
 theme = 'PaperMod'
 relativeURLs = true
 canonifyURLs = true
