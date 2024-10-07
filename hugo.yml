@@ -21,6 +21,8 @@ params:
   homeInfoParams:
     Title: Hi there 👋
     Content: Welcome to my blog.
+      I blog about all things tech, software, and life.
+      I also like to write about my experiences and thoughts.
 
   socialIcons:
     - name: "LinkedIn"
