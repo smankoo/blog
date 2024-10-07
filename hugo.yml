@@ -1,0 +1,30 @@
+baseURL: "https://mankoo.ca"
+languageCode: "en-us"
+title: "Sumeet's Blog"
+theme: "PaperMod"
+relativeURLs: true
+canonifyURLs: true
+
+params:
+  mainSections:
+    - "posts"
+  intro: true
+  headline: "My headline"
+  description: "My description"
+  github: "https://github.com/smankoo"
+  twitter: "https://twitter.com/XXX"
+  email: "sumeet@mankoo.ca"
+  opengraph: true
+  shareTwitter: true
+  dateFormat: "Mon Jan 2, 2006"
+
+  homeInfoParams:
+    Title: Hi there 👋
+    Content: Welcome to my blog.
+
+  socialIcons:
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/sumeetsinghmankoo/"
+
+permalinks:
+  posts: "/:filename/"
