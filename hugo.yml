@@ -1,8 +1,8 @@
-baseURL: "https://mankoo.ca"
+baseURL: "https://blog.mankoo.ca"
 languageCode: "en-us"
 title: "Sumeet's Blog"
 theme: "PaperMod"
-relativeURLs: true
+relativeURLs: false
 canonifyURLs: true
 
 params:
@@ -30,3 +30,21 @@ params:
 
 permalinks:
   posts: "/:filename/"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Books"
+      url: "/categories/books/"
+      weight: 2
+    - name: "Cricket"
+      url: "/categories/cricket/"
+      weight: 3
+    - name: "Technology"
+      url: "/categories/technology/"
+      weight: 4
+    - name: "Life"
+      url: "/categories/life/"
+      weight: 5

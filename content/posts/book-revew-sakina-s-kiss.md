@@ -2,7 +2,9 @@
 title: "Book Review: Sakina's Kiss - well-written half-stories"
 date: 2024-10-28T20:36:09-04:00
 draft: false
+categories: ["books"]
 ---
+
 OMG! What did I just read! I'm infuriated.
 
 ![Book Cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1693827853i/198534114.jpg "Sakina's Kiss")
@@ -11,11 +13,11 @@ So, I just finished reading [Sakina's Kiss](https://www.goodreads.com/book/show/
 
 First, the book held my attention right till the end. Reading the book feels like an average man telling you some stories. That is good and bad.
 
-**The good** is that I find stories of average men quite interesting when told well, and the book tells the stories quite well. The stories are interwoven in a way that it doesn't feel like you are reading a collection of stories. The writing is quite good. The author, Vivek Shanbag, never loosens his grip on the reader from start to end. 
+**The good** is that I find stories of average men quite interesting when told well, and the book tells the stories quite well. The stories are interwoven in a way that it doesn't feel like you are reading a collection of stories. The writing is quite good. The author, Vivek Shanbag, never loosens his grip on the reader from start to end.
 
 I could see a little bit of some of the people I've known in my life in the various characters of the book. While the protagonist, Venkat, was too timid for me to find relatable, I could see traces of my wife in the idealism of Viji and Rekha - his wife and daughter.
 
-Additionally, I often read Indian Fiction for a sense of familiarity *("my people")*. There is plenty of that in this book - names of people, places, cultural references, etc. Even the writing is full of Indian-isms that one would find difficult to understand if you are not familiar with them - *"...these people love to puff their cheeks and blow the conch."* 
+Additionally, I often read Indian Fiction for a sense of familiarity _("my people")_. There is plenty of that in this book - names of people, places, cultural references, etc. Even the writing is full of Indian-isms that one would find difficult to understand if you are not familiar with them - _"...these people love to puff their cheeks and blow the conch."_
 
 **The bad** is that, it is just a collection of stories. The author just tells you a bunch of things that happened to him and never resolves ANY of them - we don't learn why someone broke into their home and took nothing, we never learn where Rekha had disappeared to, no conclusion to the threatening uncles.
 

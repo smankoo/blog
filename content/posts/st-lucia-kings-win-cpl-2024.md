@@ -3,8 +3,8 @@ title: St. Lucia Kings win CPL 2024
 date: 2024-10-06T23:08:19-04:00
 draft: false
 tags:
-  - cricket
   - cpl
+categories: ["cricket"]
 ---
 
 ![Aaron Jones Celebrates](https://i.imgur.com/JP5WV2d.png)
