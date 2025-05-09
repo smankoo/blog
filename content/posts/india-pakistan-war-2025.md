@@ -1,7 +1,7 @@
 ---
 title: India-Pakistan War 2025 - How much more bloodshed do we need from 6 year old boys?
 date: 2025-05-07T20:42:26-04:00
-draft: false
+draft: true
 categories:
   - life
 ---
