@@ -1,17 +1,19 @@
 ---
-title: ""You people..." - the hidden costs of racism"
-date: "2025-09-21T20:57:15-04:00"
-draft: true
+title: '"You people..." - the hidden costs of racism'
+date: 2025-09-21T20:57:15-04:00
+draft: false
+categories:
+  - life
 ---
-# “You people...” - the hidden costs of racism
-
-Sleep deprived and exhausted, I remembered “oh crap, I think the car is still on the street”. I had parked our sedan there earlier in the day to pull out our minivan for the kids.
+Sleep deprived and exhausted, I remembered *“oh crap, I think the car is still on the street”*. I had parked our sedan there earlier in the day to pull out our minivan for the kids.
 
 Oh yes, the kids... the reason Priyanka and I have been sleep deprived and exhausted for a few months now. Ever since we had our second one, they have been running in “high availability” mode, the moment one quietens, the other one needs attention, night or day. 
 
-I tied up my hair in a bun, grabbed the keys to the car, and headed to bring the car back in. I didn't want it to be an inconvenience to drivers or hinder the sweeping truck that sometimes comes by early morning. Then just as I was hitting the lock button, I heard his voice “you ever fucking park your car there again, i will fucking…”. I was taken aback, and the first thing that popped out of my mouth was “why are you being so rude?”. He responded: “Because you people think you own this country…” (continued stream of profanity and racism filled yelling). This was my neighbor. A 60-ish year old white man. Just a couple months ago, Priyanka and I had taken our two month old, to their door to give them Indian sweets celebrating his birth.
+I tied up my hair in a bun, grabbed the keys to the car, and headed to bring the car back in. I didn't want it to be an inconvenience to drivers or hinder the sweeping truck that sometimes comes by early morning. Then just as I was hitting the lock button, I heard his voice *“you ever fucking park your car there again, i will fucking…”*. I was taken aback, and the first thing that popped out of my mouth was *“why are you being so rude?”*. He responded: *“Because you people think you own this country…” (continued stream of profanity and racism filled yelling)*. This was my neighbor. A 60-ish year old white man. Just a couple months ago, Priyanka and I had taken our two month old, to their door to give them Indian sweets celebrating his birth.
 
-His verbal attack continued for about 20 minutes, waking up half the neighborhood in the process.
+His verbal attack continued for about 20 minutes, waking up half the neighborhood in the process. 
+
+It was a dehumanizing experience. In that moment, it didn't matter that I have an MBA from a top-tier school in Canada, or I work at a bleeding-edge tech company, or that I have certain tastes in cheese and jam pairing. Nope. All that mattered was that my skin was a different color.
 
 I went to bed angry, and couldn't sleep for hours stewing in hatred and disgust. At 3 am, I was staring at the ceiling replaying the incident, wondering what I could have done differently, what I would do if law wasn't a thing. Eventually, I decided I didn't want my kids to grow up in this environment. Next morning, I scheduled a meeting with a real estate broker.
 
