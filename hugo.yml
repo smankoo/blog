@@ -18,11 +18,19 @@ params:
   shareTwitter: true
   dateFormat: "Mon Jan 2, 2006"
 
+  # Phase 1 UX toggles
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  defaultTheme: auto
+
   homeInfoParams:
     Title: Hi there 👋
     Content: Welcome to my blog.
-      I blog about all things tech, software, and life.
-      I also like to write about my experiences and thoughts.
+      I write about tech, cricket, books, and life in general.
+
 
   socialIcons:
     - name: "LinkedIn"

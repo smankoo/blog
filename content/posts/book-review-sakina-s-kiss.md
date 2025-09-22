@@ -3,6 +3,8 @@ title: "Book Review: Sakina's Kiss - well-written half-stories"
 date: 2024-10-28T20:36:09-04:00
 draft: false
 categories: ["books"]
+aliases:
+  - "/book-revew-sakina-s-kiss/"
 ---
 
 OMG! What did I just read! I'm infuriated.
@@ -32,3 +34,5 @@ I was on track to giving it 4 stars for holding my attention the way it did. But
 **Did I regret reading it:** No
 
 #book-review #indian-fiction
+
+
