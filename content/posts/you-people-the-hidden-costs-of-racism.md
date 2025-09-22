@@ -4,6 +4,9 @@ date: 2025-09-21T20:57:15-04:00
 draft: false
 categories:
   - life
+cover:
+  image: "https://i.imgur.com/FboVddi.jpeg"
+  alt: "For Sale sign in front of house"
 ---
 Sleep deprived and exhausted, I remembered *“oh crap, I think the car is still on the street”*. I had parked our sedan there earlier in the day to pull out our minivan for the kids.
 
