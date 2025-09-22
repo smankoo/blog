@@ -5,6 +5,7 @@ theme: "PaperMod"
 relativeURLs: false
 canonifyURLs: true
 enableRobotsTXT: true
+googleAnalytics: "G-M1RJ1BCTQP"
 
 params:
   mainSections:
@@ -67,3 +68,10 @@ menu:
     - name: "Life"
       url: "/categories/life/"
       weight: 5
+
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+    useSessionStorage: true
+    disable: false
