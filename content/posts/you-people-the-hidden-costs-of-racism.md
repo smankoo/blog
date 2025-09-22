@@ -19,6 +19,7 @@ I went to bed angry, and couldn't sleep for hours stewing in hatred and disgust.
 
 Now we are selling the house, for less money than we owe in mortgage.
 
+
 Nine years ago, I was headed to a job interview at McKinsey. At Montreal airport, a security officer pulled me aside and told me to check in an item that everyone else in line was carrying without question. I brushed it off at first... until I overheard airline staff whisper to each other with a knowing look: “you know what’s happening.”
 
 That moment kept replaying in my head. Instead of preparing to solve cases like I imagine my peers were doing, I kept asking myself: Do I even belong here? Did I do something wrong? What could I have done differently?
@@ -30,3 +31,5 @@ Incidents like these don't just ruin your day. They stay with you for a long tim
 For all the talk about the economy or the workplace being a "meritocracy" on a "level playing field", the playing field is not level. Immigrants are paying this mental tax everyday, and having to work much harder to deliver the same output as everyone else.
 
 While the costs of blatant racism, such as not hiring a qualified candidate, are somewhat easier to quantify, the cost of this mental tax on immigrants are real, even if harder to assign a number to. Racism doesn't just happen once, like a road accident. It stays with you. It envelopes you like a disgusting blanket. It tints your glasses and plays in your ears during office meetings, while playing with your kids, while eating dinner with your family. It is always there, always extracting its tax.
+
+![For Sale](https://i.imgur.com/FboVddi.jpeg)
