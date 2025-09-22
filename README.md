@@ -87,6 +87,19 @@ This repository contains the source code for my personal blog at [https://blog.m
 >    - **GitHub Pages**: Deploy `public/` to `gh-pages` branch.
 >    - **Netlify/Vercel**: Connect this repo; set build command to `hugo`, publish directory to `public`.
 
+## Social/SEO assets
+
+> Default social image and favicons:
+>
+> - Put your default social image at `static/images/social-default.png`. This is referenced by `params.images` in `hugo.yml` and will be used when a post has no `cover.image`.
+> - Put favicon files under `static/favicons/` with the names referenced in `hugo.yml` (`favicon.ico`, `favicon-16x16.png`, `favicon-32x32.png`, `apple-touch-icon.png`, `safari-pinned-tab.svg`).
+> - Per-post covers can go under `static/images/posts/<slug>/cover.jpg` and be referenced in front matter:
+>   ```yaml
+>   cover:
+>     image: "/images/posts/<slug>/cover.jpg"
+>     alt: "Meaningful description"
+>   ```
+
 ## Directory Structure
 
 > ```text

@@ -4,6 +4,7 @@ title: "Sumeet's Blog"
 theme: "PaperMod"
 relativeURLs: false
 canonifyURLs: true
+enableRobotsTXT: true
 
 params:
   mainSections:
@@ -35,6 +36,16 @@ params:
   socialIcons:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/sumeetsinghmankoo/"
+
+  # Phase 2 social/SEO
+  images:
+    - "/images/social-default.png"
+  assets:
+    favicon: "/favicons/favicon.ico"
+    favicon16x16: "/favicons/favicon-16x16.png"
+    favicon32x32: "/favicons/favicon-32x32.png"
+    apple_touch_icon: "/favicons/apple-touch-icon.png"
+    safari_pinned_tab: "/favicons/safari-pinned-tab.svg"
 
 permalinks:
   posts: "/:filename/"
