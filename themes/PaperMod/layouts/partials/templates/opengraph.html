@@ -10,7 +10,7 @@
 {{- end}}
 {{- else }}
 
-{{- $images := partial "partials/templates/_funcs/get-page-images" . -}}
+{{- $images := partial "templates/_funcs/get-page-images" . -}}
 {{- range first 6 $images }}
 <meta property="og:image" content="{{ .Permalink }}" />
 {{ end -}}
@@ -46,12 +46,9 @@
 {{- $facebookAdmin := "" }}
 {{- with site.Params.social }}
   {{- if reflect.IsMap . }}
-    {{- $facebookAdmin = .facebook_admin }}
-  {{- end }}
-{{- else }}
-  {{- with site.Social.facebook_admin }}
-    {{- $facebookAdmin = . }}
-    {{- warnf "The social key in site configuration is deprecated. Use params.social.facebook_admin instead." }}
+    {{- with .facebook_admin }}
+      {{- $facebookAdmin = . }}
+    {{- end }}
   {{- end }}
 {{- end }}
 
