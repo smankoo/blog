@@ -1,0 +1,7 @@
+---
+title: "Pakistan's Test defeat to England in Lords 2026"
+date: "2026-09-06T23:00:25-04:00"
+draft: true
+---
+It was sad and painful to watch Pakistan team suffer at the hands of, what I can only describe as, above average pace attack from the English cricket team.
+We have all heard about the current Pakistani team not having the talent of the past ones. The lack of talent is not what bothered me the most. The lack of application did. Where is the determination to not get out? You see Rizwan get out to slog sweep. wtf. Saud Shakeel, IMO is technical such a terrible batsman that he probably won't make a Ranji trophy team in India. Yet, he's the one who scored 97 while nobody else crossed 50. Why? Because he was determined. He got hit by a bouncer on his shoulder, didn't show pain, and just continued batting. THIS is how you save test matches. You determine "kuchh bhi ho jaye, main out nahi hounga, kar lo jo karna hai" (do whatever you can, I'm not getting out). Then, they are going to try bouncing you, putting in silly point, short leg and what not. You let them. You determine you're not going to get out. Reference - see Siraj's innings in England last year, see pujara, rahane, and Rishabh Pant's innings in Australia. That's what Test cricket is about. Talent alone would get you nowhere. Application, determination is 90% of the game. Maybe that's a lesson for life too. 
